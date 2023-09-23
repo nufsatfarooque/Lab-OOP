@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695463539 source:d:\sofftawer\codes\classwork\oop\project\matrix3d\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1695462791 d:\sofftawer\codes\classwork\oop\project\matrix3d\include\matrix.h
+
+1695463574 source:d:\sofftawer\codes\classwork\oop\project\matrix3d\src\matrix.cpp
+	<iostream>
+	<iomanip>
+	"Matrix.h"
+

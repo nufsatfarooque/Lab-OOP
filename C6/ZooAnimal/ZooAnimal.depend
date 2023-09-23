@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694837061 source:d:\sofftawer\codes\classwork\oop\project\zooanimal\main.cpp
+	<iostream>
+	<string>
+	"ZooAnimal.h"
+
+1694836926 d:\sofftawer\codes\classwork\oop\project\zooanimal\include\zooanimal.h
+	<iostream>
+	<string>
+
+1694836586 source:d:\sofftawer\codes\classwork\oop\project\zooanimal\src\zooanimal.cpp
+	"ZooAnimal.h"
+	<iostream>
+	<string>
+

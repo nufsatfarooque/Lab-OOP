@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695464177 source:d:\sofftawer\codes\classwork\oop\project\coordinate\main.cpp
+	<iostream>
+	"Coordinate.h"
+
+1695464217 source:d:\sofftawer\codes\classwork\oop\project\coordinate\src\coordinate.cpp
+	"Coordinate.h"
+	<iostream>
+	<math.h>
+
+1694842654 d:\sofftawer\codes\classwork\oop\project\coordinate\include\coordinate.h
+
