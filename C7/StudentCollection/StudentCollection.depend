@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695187812 source:d:\sofftawer\codes\classwork\oop\project\studentcollection\main.cpp
+	<iostream>
+	<string>
+	"StudentCollection.h"
+
+1695187951 source:d:\sofftawer\codes\classwork\oop\project\studentcollection\src\studentcollection.cpp
+	"StudentCollection.h"
+	<iostream>
+	<string>
+
+1695187951 d:\sofftawer\codes\classwork\oop\project\studentcollection\include\studentcollection.h
+	<string>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695478115 source:d:\sofftawer\codes\classwork\oop\project\weight\main.cpp
+	<iostream>
+	"Weight.h"
+
+1695478086 source:d:\sofftawer\codes\classwork\oop\project\weight\src\weight.cpp
+	"Weight.h"
+	<iostream>
+
+1695477663 d:\sofftawer\codes\classwork\oop\project\weight\include\weight.h
+

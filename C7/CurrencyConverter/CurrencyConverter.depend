@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1695486087 source:d:\sofftawer\codes\classwork\oop\project\currencyconverter\main.cpp
+	<iostream>
+	"CurrencyBDT.h"
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+
+1695486098 source:d:\sofftawer\codes\classwork\oop\project\currencyconverter\src\currencydollar.cpp
+	"CurrencyDollar.h"
+	"CurrencyBDT.h"
+	"CurrencyEuro.h"
+	<iostream>
+
+1695486026 d:\sofftawer\codes\classwork\oop\project\currencyconverter\include\currencydollar.h
+	"CurrencyBDT.h"
+	"CurrencyEuro.h"
+
+1695190544 source:d:\sofftawer\codes\classwork\oop\project\currencyconverter\src\currencyeuro.cpp
+	"CurrencyEuro.h"
+	<iostream>
+
+1695486334 d:\sofftawer\codes\classwork\oop\project\currencyconverter\include\currencyeuro.h
+	"CurrencyDollar.h"
+	"CurrencyBDT.h"
+
+1695486080 source:d:\sofftawer\codes\classwork\oop\project\currencyconverter\src\currencybdt.cpp
+	"CurrencyBDT.h"
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+
+1695486288 d:\sofftawer\codes\classwork\oop\project\currencyconverter\include\currencybdt.h
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+
+1695192833 source:d:\sofftawer\codes\classwork\oop\project\currencyconverter\src\weight.cpp
+	"Weight.h"
+	<iostream>
+
+1695192369 d:\sofftawer\codes\classwork\oop\project\currencyconverter\include\weight.h
+
+1695531521 source:d:\sofftawer\codes\classwork\oop\c7\currencyconverter\main.cpp
+	<iostream>
+	"CurrencyBDT.h"
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+
+1695530739 d:\sofftawer\codes\classwork\oop\c7\currencyconverter\include\currencybdt.h
+
+1695530434 d:\sofftawer\codes\classwork\oop\c7\currencyconverter\include\currencydollar.h
+	"CurrencyBDT.h"
+	"CurrencyEuro.h"
+
+1695530510 d:\sofftawer\codes\classwork\oop\c7\currencyconverter\include\currencyeuro.h
+	"CurrencyDollar.h"
+	"CurrencyBDT.h"
+
+1695531417 source:d:\sofftawer\codes\classwork\oop\c7\currencyconverter\src\currencybdt.cpp
+	"CurrencyBDT.h"
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+	<iostream>
+	<iomanip>
+
+1695531450 source:d:\sofftawer\codes\classwork\oop\c7\currencyconverter\src\currencydollar.cpp
+	"CurrencyDollar.h"
+	"CurrencyBDT.h"
+	"CurrencyEuro.h"
+	<iostream>
+	<iomanip>
+
+1695531803 source:d:\sofftawer\codes\classwork\oop\c7\currencyconverter\src\currencyeuro.cpp
+	"CurrencyEuro.h"
+	"CurrencyDollar.h"
+	"CurrencyBDT.h"
+	<iostream>
+	<iomanip>
+
