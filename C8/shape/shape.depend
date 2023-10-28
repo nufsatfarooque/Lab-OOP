@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1698485373 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1698485373 d:\sofftawer\codes\classwork\oop\c8\shape\include\circle.h
+	"twodimensionalshape.h"
+
+1697612883 d:\sofftawer\codes\classwork\oop\c8\shape\include\twodimensionalshape.h
+	"shape.h"
+
+1697611754 d:\sofftawer\codes\classwork\oop\c8\shape\include\shape.h
+
+1698485626 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\cube.cpp
+	"cube.h"
+	<iostream>
+
+1698485595 d:\sofftawer\codes\classwork\oop\c8\shape\include\cube.h
+	"threedimensionalshape.h"
+
+1698485126 d:\sofftawer\codes\classwork\oop\c8\shape\include\threedimensionalshape.h
+	"shape.h"
+
+1698485982 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1698485903 d:\sofftawer\codes\classwork\oop\c8\shape\include\cylinder.h
+	<threedimensionalshape.h>
+
+1697611755 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\shape.cpp
+	"shape.h"
+
+1698485373 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\sphere.cpp
+	"sphere.h"
+	<iostream>
+
+1698485063 d:\sofftawer\codes\classwork\oop\c8\shape\include\sphere.h
+	"threedimensionalshape.h"
+
+1698485373 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\threedimensionalshape.cpp
+	"threedimensionalshape.h"
+	<iostream>
+
+1698484899 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\square.cpp
+	"square.h"
+	<iostream>
+
+1698484899 d:\sofftawer\codes\classwork\oop\c8\shape\include\square.h
+	<iostream>
+	"twodimensionalshape.h"
+
+1698486337 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\triangle.cpp
+	"triangle.h"
+	<iostream>
+	<math.h>
+
+1698486337 d:\sofftawer\codes\classwork\oop\c8\shape\include\triangle.h
+	"twodimensionalshape.h"
+
+1698484899 source:d:\sofftawer\codes\classwork\oop\c8\shape\src\twodimensionalshape.cpp
+	"twodimensionalshape.h"
+	<iostream>
+
+1698484913 source:d:\sofftawer\codes\classwork\oop\c8\shape\main.cpp
+	<iostream>
+	"shape.h"
+	"square.h"
+	"circle.h"
+	"triangle.h"
+	"cube.h"
+	"cylinder.h"
+	"sphere.h"
+

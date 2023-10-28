@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1697611600 source:d:\sofftawer\codes\classwork\oop\c8\employee\main.cpp
+	<iostream>
+	"Employee.h"
+	"Manager.h"
+	"Engineer.h"
+	"Designer.h"
+
+1697609762 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\designer.cpp
+	"Designer.h"
+
+1697609737 d:\sofftawer\codes\classwork\oop\c8\employee\include\designer.h
+	"Employee.h"
+
+1697611648 d:\sofftawer\codes\classwork\oop\c8\employee\include\employee.h
+	<string>
+	<iostream>
+	"Address.h"
+	"Contact_Info.h"
+
+1697611648 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\employee.cpp
+	"Employee.h"
+	"Address.h"
+
+1697610035 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\engineer.cpp
+	"Engineer.h"
+
+1697610050 d:\sofftawer\codes\classwork\oop\c8\employee\include\engineer.h
+	"Employee.h"
+
+1697610018 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\manager.cpp
+	"Manager.h"
+
+1697609637 d:\sofftawer\codes\classwork\oop\c8\employee\include\manager.h
+	"Employee.h"
+
+1697608454 d:\sofftawer\codes\classwork\oop\c8\employee\include\address.h
+	<string>
+
+1697608500 d:\sofftawer\codes\classwork\oop\c8\employee\include\contact_info.h
+	<string>
+	<iostream>
+
+1697607929 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\address.cpp
+	"Address.h"
+
+1697608085 source:d:\sofftawer\codes\classwork\oop\c8\employee\src\contact_info.cpp
+	"Contact_Info.h"
+
